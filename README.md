@@ -47,6 +47,9 @@ Por defecto Not Walkable ya esta definido ![image](https://github.com/9RACHA/P4.
 El puente negro con cubos amarillos sera dificil de caminar ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/c79372d0-b479-4ca2-a9c0-ebe8c8058b24)
 Se le asigna una dificultad de 2, ya que sera más costoso que el Agente pase por aqui.
 
+Se le asigna el area ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/9e432921-2557-4fb0-a186-f0b35f76f932)
+
+
 
 
 
