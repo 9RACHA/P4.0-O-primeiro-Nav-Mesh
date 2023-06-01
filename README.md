@@ -37,6 +37,10 @@ Para crear el NavMesh pulsaremos en Bake
 El NavMesh se creará automaticamente dependiendo de las caracteristicas del Agente
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/8c777b5a-7e8d-4b22-9624-dfa505e5286a)
 
+Tambien es necesario añadir el paquete ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/9d68df19-ea59-44e0-bf2d-241627fca040)
+Poniendo en añadir como nombre -> com.unity.ai.navigation
+
+
 
 
 
