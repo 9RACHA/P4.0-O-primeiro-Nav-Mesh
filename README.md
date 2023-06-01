@@ -35,6 +35,8 @@ Para crear el NavMesh pulsaremos en Bake
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/96dc6c45-3136-408a-959d-f7cb6147aa6e)
 
 El NavMesh se creará automaticamente dependiendo de las caracteristicas del Agente
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/8c777b5a-7e8d-4b22-9624-dfa505e5286a)
+
 
 
 
