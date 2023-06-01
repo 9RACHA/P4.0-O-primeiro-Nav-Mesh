@@ -29,6 +29,6 @@ Agregar la pestaña Navigation : En el menu -> Window -> AI -> Navigation
 
 Marcar en Static el objeto vacio padre llamado NavMesh que incluira a los objetos hijos del diseño de nivel y que los marcará en static también ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/203c6c23-0f6c-43f3-8432-c68fe7349fcb)
 
-![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/4254def8-2881-44af-95ef-07337f1af436)
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/4254def8-2881-44af-95ef-07337f1af436) Static hijo marcado
 
 
