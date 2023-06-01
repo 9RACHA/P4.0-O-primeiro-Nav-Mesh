@@ -40,7 +40,10 @@ El NavMesh se creará automaticamente dependiendo de las caracteristicas del Age
 Tambien es necesario añadir el paquete ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/9d68df19-ea59-44e0-bf2d-241627fca040)
 Poniendo en añadir como nombre -> com.unity.ai.navigation
 
-El unico area no caminable sera el puente negro ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/e5851f54-93c6-4780-9df3-5a5b3cf8a26b)
+El unico Area no caminable sera el puente negro ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/e5851f54-93c6-4780-9df3-5a5b3cf8a26b)
+
+Por defecto Not Walkable ya esta definido ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/05745a37-4240-46d8-be55-b3f370288089)
+
 
 
 
