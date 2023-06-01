@@ -31,4 +31,8 @@ Marcar en Static el objeto vacio padre llamado NavMesh que incluira a los objeto
 
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/4254def8-2881-44af-95ef-07337f1af436) Static hijo marcado
 
+Para crear el NavMesh pulsaremos en Bake
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/96dc6c45-3136-408a-959d-f7cb6147aa6e)
+
+
 
