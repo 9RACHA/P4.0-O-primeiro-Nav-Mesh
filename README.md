@@ -44,6 +44,9 @@ El unico Area no caminable sera el puente negro ![image](https://github.com/9RAC
 
 Por defecto Not Walkable ya esta definido ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/05745a37-4240-46d8-be55-b3f370288089)
 
+El puente negro con cubos amarillos sera dificil de caminar ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/c79372d0-b479-4ca2-a9c0-ebe8c8058b24)
+Se le asigna una dificultad de 2, ya que sera más costoso que el Agente pase por aqui.
+
 
 
 
