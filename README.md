@@ -60,6 +60,10 @@ Componentes del NavmeshAgent
 Prefab NavMeshAgent
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/7dc00c12-125f-4d9c-9e94-9d083fc078bb)
 
+Agente Humanoide
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/1d0f4c10-750b-4165-8753-57c97ad1e51d)
+
+
 
 
 
