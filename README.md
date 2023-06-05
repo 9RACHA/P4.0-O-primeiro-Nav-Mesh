@@ -54,6 +54,11 @@ OffMesh-Link: entre 2 puntos distantes. Esta asignado el componente de entrada e
 
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/42c2fda8-6d35-430c-879c-e67e024f02fc)
 
+Componentes del NavmeshAgent
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/63c75e87-bbcf-4eab-9d39-1e0254eb54dc)
+Prefab NavMeshAgent
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/7dc00c12-125f-4d9c-9e94-9d083fc078bb)
+
 
 
 
