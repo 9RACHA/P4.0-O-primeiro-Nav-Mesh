@@ -49,6 +49,22 @@ Se le asigna una dificultad de 2, ya que sera más costoso que el Agente pase po
 
 Se le asigna el area ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/9e432921-2557-4fb0-a186-f0b35f76f932)
 
+OffMesh-Link: entre 2 puntos distantes. Esta asignado el componente de entrada el puente de la derecha y de salida el de la izquierda pero tambien esta marcada la casilla bidirecional por tanto podria cambiar el orden e ir hacia los 2 puntos sin tener una entrada ni salida fijas
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/1a0d07c1-d838-4ba3-8701-7fd098621942)
+
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/42c2fda8-6d35-430c-879c-e67e024f02fc)
+
+Componentes del NavmeshAgent
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/63c75e87-bbcf-4eab-9d39-1e0254eb54dc)
+
+Prefab NavMeshAgent
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/7dc00c12-125f-4d9c-9e94-9d083fc078bb)
+
+Agente Humanoide
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/1d0f4c10-750b-4165-8753-57c97ad1e51d)
+
+
+
 
 
 
