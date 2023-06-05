@@ -814,7 +814,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8655639460970274877, guid: 36a8c27a6af60fe49ab3e28510be0ebb, type: 3}
       propertyPath: m_Name
-      value: TrampolinEntrada
+      value: OFFMESHLINK
       objectReference: {fileID: 0}
     - target: {fileID: 8655639460970274877, guid: 36a8c27a6af60fe49ab3e28510be0ebb, type: 3}
       propertyPath: m_NavMeshLayer
@@ -842,7 +842,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 47c2615b0ab1ab946819cf337626f937, type: 2}
     - target: {fileID: 8655639461053087889, guid: 36a8c27a6af60fe49ab3e28510be0ebb, type: 3}
       propertyPath: m_Name
-      value: TrampolinSalida
+      value: OFFMESHLINK
       objectReference: {fileID: 0}
     - target: {fileID: 8655639461053087889, guid: 36a8c27a6af60fe49ab3e28510be0ebb, type: 3}
       propertyPath: m_NavMeshLayer
