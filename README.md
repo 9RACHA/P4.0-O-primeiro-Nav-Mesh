@@ -51,6 +51,7 @@ Se le asigna el area ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh
 
 OffMesh-Link: entre 2 puntos distantes. Esta asignado el componente de entrada el puente de la derecha y de salida el de la izquierda pero tambien esta marcada la casilla bidirecional por tanto podria cambiar el orden e ir hacia los 2 puntos sin tener una entrada ni salida fijas
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/1a0d07c1-d838-4ba3-8701-7fd098621942)
+
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/42c2fda8-6d35-430c-879c-e67e024f02fc)
 
 
