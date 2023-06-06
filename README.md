@@ -86,7 +86,7 @@ Eliminar o deseleccionar static, añadir el componente NavMeshObstacle y el Scri
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/3b7ead04-0820-4030-b814-a925c4e99fba)
 
 5.Fai que o destino do axente sexa definido ao clickar nunha parte do mapa
-
+Revisar El prefab level
 
 
 
