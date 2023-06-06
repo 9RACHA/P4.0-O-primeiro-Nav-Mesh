@@ -80,6 +80,15 @@ Humanoide
 Script Agent muy parecido al anterior de MoveTo pero este actualizara constantemente la posicion al tener el destino en el Update
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/dd85785c-bcc8-4057-835a-48ef07b2e86d)
 
+4.Crea un obstáculo (Nav Mesh Obstacle) que se mova e peche o paso temporalmente.
+Eliminar o deseleccionar static, añadir el componente NavMeshObstacle y el Script correspondiente 
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/4bd0ed1e-6732-49da-97b5-d81734db2c54)
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/3b7ead04-0820-4030-b814-a925c4e99fba)
+
+5.Fai que o destino do axente sexa definido ao clickar nunha parte do mapa
+
+
+
 
 
 
