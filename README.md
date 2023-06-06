@@ -101,6 +101,16 @@ Se cambio el target o goal al objetivo que querramos que persiga, se añadio el 
 Añadir el package using UnityEngine.AI;
 Establece el punto de destino del agente como el punto de impacto del ray, lo que hace que el agente se mueva hacia ese punto utilizando la navegación NavMesh
 
+6.Crea un terceriro axente que esté patruyando entre polo menos 3 puntos.
+Prefab
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/9b8d948c-3ca2-4d50-9881-67622b7e2266)
+
+Componente NavMeshAgent y se añadio el script Patrol
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/2349b971-e916-433a-9f55-7d5e8e705428)
+
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/eb1d0361-3625-47cb-8524-a9957bbc34be)
+
+
 
 
 
