@@ -109,7 +109,10 @@ Componente NavMeshAgent y se añadio el script Patrol
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/2349b971-e916-433a-9f55-7d5e8e705428)
 
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/eb1d0361-3625-47cb-8524-a9957bbc34be)
+El agente patrullador ira siguiendo los puntos asignados de forma ciclica y siempre siguiendo el mismo orden dependiendo de la asignacion en el inspector.
 
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/2e8870d1-af54-49f1-9a93-7fa7b1e67001)
+En este caso los puntos seleccionados de patrulla no es necesario que lleven ningun componente, incluso un objeto vacio serviria ya que se solo se necesita obtener la posicion de este, para que siga el camino indicado.
 
 
 
