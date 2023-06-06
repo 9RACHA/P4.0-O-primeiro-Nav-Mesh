@@ -97,6 +97,9 @@ El maximo rango que alcanzara en este caso son 1000 unidades para que haya conta
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/b4252f33-2623-4560-a857-374366becb37)
 Se cambio el target o goal al objetivo que querramos que persiga, se añadio el script Move To Click Point
 
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/c7a51361-4f5a-4d9d-9a2c-6af6404d52f1)
+Añadir el package using UnityEngine.AI;
+Establece el punto de destino del agente como el punto de impacto del ray, lo que hace que el agente se mueva hacia ese punto utilizando la navegación NavMesh
 
 
 
