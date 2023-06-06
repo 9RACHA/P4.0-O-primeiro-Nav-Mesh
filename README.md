@@ -91,7 +91,14 @@ Eliminar o deseleccionar static, añadir el componente NavMeshObstacle y el Scri
 Es importante deseleccionar el static ya que sino no se podra mover el objetivo al clickar por el mapa 
 
 ![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/b0b3c317-e85b-450f-bade-627014d5e9fb)
-Por defecto se clickara con el boton izquierdo del raton
+Por defecto se clickara con el boton izquierdo del raton. 
+El maximo rango que alcanzara en este caso son 1000 unidades para que haya contacto con el Ray.
+
+![image](https://github.com/9RACHA/P4.0-O-primeiro-Nav-Mesh/assets/66274956/b4252f33-2623-4560-a857-374366becb37)
+Se cambio el target o goal al objetivo que querramos que persiga, se añadio el script Move To Click Point
+
+
+
 
 
 
