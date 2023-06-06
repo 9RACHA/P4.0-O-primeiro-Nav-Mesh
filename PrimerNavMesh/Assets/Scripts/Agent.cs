@@ -3,20 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class Agent : MonoBehaviour
-{
+public class Agent : MonoBehaviour{
+
+    //El Script del Agente que sera perseguidor del agente jugador
 
     public Transform target;
     NavMeshAgent agent;
-    // Start is called before the first frame update
-    void Start()
-    {
+    
+    void Start(){
         agent = GetComponent<NavMeshAgent>();
     }
-
-    // Update is called once per frame
-    void Update()
-    {
+    
+    void Update(){
         agent.destination = target.position;
     }
 }

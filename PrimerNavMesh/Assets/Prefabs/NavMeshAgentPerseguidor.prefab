@@ -207,6 +207,7 @@ GameObject:
   - component: {fileID: 5997937256441838384}
   - component: {fileID: 5997937256441838385}
   - component: {fileID: 5997937256441838396}
+  - component: {fileID: 5338395282393879371}
   m_Layer: 0
   m_Name: NavMeshAgentPerseguidor
   m_TagString: Untagged
@@ -320,6 +321,18 @@ NavMeshAgent:
   m_BaseOffset: 1
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &5338395282393879371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5997937256441838386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd0c9ab3442ad149b448a54a6f41808, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5997937256921933427
 GameObject:
   m_ObjectHideFlags: 0
